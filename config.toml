@@ -1,4 +1,4 @@
-baseURL = "whattheheptio.com"
+baseURL = "www.whattheheptio.com"
 languageCode = "en-us"
 title = "What The Heptio?"
 theme = "ananke"
