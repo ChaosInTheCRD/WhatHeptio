@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>whattheheptio.com/posts/first-posts/</loc>
+    <loc>http://whattheheptio.com/posts/first-posts/</loc>
     <lastmod>2020-01-27T10:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>whattheheptio.com/posts/</loc>
+    <loc>http://whattheheptio.com/posts/</loc>
     <lastmod>2020-01-27T10:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>whattheheptio.com/</loc>
+    <loc>http://whattheheptio.com/</loc>
     <lastmod>2020-01-27T10:43:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>whattheheptio.com/categories/</loc>
+    <loc>http://whattheheptio.com/categories/</loc>
   </url>
   
   <url>
-    <loc>whattheheptio.com/tags/</loc>
+    <loc>http://whattheheptio.com/tags/</loc>
   </url>
   
 </urlset>
