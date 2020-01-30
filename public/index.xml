@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What The Heptio?</title>
-    <link>http://whattheheptio.com/</link>
-    <description>Recent content on What The Heptio?</description>
+    <title>Pure theme for Hugo</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2020 10:43:56 +0000</lastBuildDate>
     
-	<atom:link href="http://whattheheptio.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>http://whattheheptio.com/posts/first-posts/</link>
+      <title>Lets direct our Kubernetes traffic with... Contour? 🚦</title>
+      <link>https://example.com/2020/01/first-posts/</link>
       <pubDate>Mon, 27 Jan 2020 10:43:56 +0000</pubDate>
       
-      <guid>http://whattheheptio.com/posts/first-posts/</guid>
-      <description>Get ready to see a hell of a load of content coming weekly to this blog!
-For now though, take some pleasure in seeing a picture of these delicious snacks</description>
+      <guid>https://example.com/2020/01/first-posts/</guid>
+      <description>So you understand the premise of a container, pretty cool right? You have one way or another been taken through a rundown of how Kubernetes can help harness these nifty little containers, and enable enterprises to run their services with a whole new level of control and efficiency. Now you feel accomplished in your understanding of this new trend, and someone has burst your bubble by uttering a sentence like, &amp;ldquo;I use contour as my ingress controller as it deploys Envoy as the reverse proxy and load balancer, what do you use?</description>
     </item>
     
   </channel>
