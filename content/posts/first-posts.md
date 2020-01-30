@@ -9,4 +9,4 @@ Get ready to see a hell of a load of content coming weekly to this blog!
 
 For now though, take some pleasure in seeing a picture of these delicious snacks
 
-![Smoky Bacon Walkers, with a can of Irn Bru](/img/post-1/golang.png)
+![Smoky Bacon Walkers, with a can of Irn Bru](/img/post-1/snacks.jpeg)
