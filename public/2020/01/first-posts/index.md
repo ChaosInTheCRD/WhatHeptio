@@ -43,7 +43,9 @@ I'm sure by now you have done a quick google search to find out what [Envoy](htt
 
 Well yes, it's a proxy.. just the kind that you'd find inside one of your ingress controllers. But there are some key factors that made it a great choice when the Contour project was being created. First of all, Envoy is officially supported by the Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/cncf-envoy-project-journey/#)). This ensures there will be long term support and oversee of the project, making it advantageous for deployment in enterprise environments. However, in terms of its architecture, what makes it so appealing is that this proxy is 'API driven'. What does this mean? Well in the instance of the proxies mentioned earlier such as Nginx, a config file must be edited, saved and a service reloaded, before changes are to come into effect. However through Envoys APIs ([What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)), any changes that are needed to be made to its configuration, can be done without restart or disturbance. Yes, you guessed it, this is how the Contour project manages to give dynamic configuration updates with such ease. Finally, it is written in C++, which gives it the ability to execute very quickly, and run very efficiently. Why? Well maybe it is a bit out of scope for this post, maybe another time 😊.
 
-If you want a more detailed/full description of the envoy proxy, and why it was a great design choice for the Contour project; please see the TGIK episode by Joe Beda that I have embedded below, and go to 13:00 (watch the whole episode if you have the interest and the time to kill).
+If you want a more detailed/full description of the envoy proxy, and why it was a great design choice for the Contour project; please see the TGIK episode by Joe Beda that I have embedded below, and go to ```playtime 13:00``` (watch the whole episode if you have the interest and the time to kill).
+
+{{< youtube -Hvfl6zOLGE >}}
 
 ## Tell me more 🙏
 Okay! So first of all congratulations for getting this far, and have somehow managed to not cringe too hard at my cheesy journalism. I hope by now that you feel versed enough in the world of project contour to follow any deeper documentation. If so, crack on! Personally, I think the TGIK episode below is a great place to start, and from there you can look over the documentation to your hearts content. I have provided the relevant pages for both Contour and Envoy below.
@@ -59,6 +61,3 @@ Okay! So first of all congratulations for getting this far, and have somehow man
 I hope that this article has been worth the 10-15 minutes, and you feel that those 'what the Heptio?' feelings have faded away into nothingness. At the very least, I hope that you have learned something interesting about the world of cloud native, and if there is anything I can do to help, or any feedback you would like to give; please reach out to me 🙋🏻‍♂️.
 
 On the subject of feedback, any feedback is greatly received. I am still learning, so if anyone finds a small hole/caveat in my overview, that's ok! I would really like to know, so I can review and make the necessary changes. I have even got a comments section below (so exciting), so feel free to discuss what you like down there.
-
-
-{{< youtube -Hvfl6zOLGE >}}
