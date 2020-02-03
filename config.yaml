@@ -1,13 +1,13 @@
-baseURL: https://example.com/
+baseURL: https://whattheheptio.com/
 theme: pure
-title: Pure theme for Hugo
+title: What the Heptio?
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: ""      # UA-XXXXXXXX-X
 permalinks:
   posts: /:year/:month/:filename/
 
@@ -15,7 +15,7 @@ taxonomies:
     category : categories
     tag : tags
     series : series
-outputFormats:          # use for search. recommend not to modify 
+outputFormats:          # use for search. recommend not to modify
   SearchIndex:
     mediaType: "application/json"
     baseName: "searchindex"
@@ -59,12 +59,12 @@ menu:
     - identifier: about
       name: About
       title: About
-      url: /about/
+      url: /about
       weight: 5
 
 
 params:
-  since: 2017
+  since: 2020
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true
   # the directory under content folder that you want to render
@@ -95,19 +95,19 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
-    author_title: author title
-    author_description: Good Good Study, Day Day Up~
-    location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    author: What The Heptio?
+    author_title: Tom Meadows
+    author_description: Embarking on a journey through the world of modern enterprise computing...
+    location: London, United Kingdom
+    follow: https://github.com/djw0bbl3
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
+        github: https://github.com/djw0bbl3
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
-        # facebook: /
-        rss: /index.xml
+        linkedin: https://linkedin.com/in/thomas-meadows-481584148/
+        # rss: /index.xml
       link_tooltip: false # enable the social link tooltip, options: true, false
   # Site
   site:
@@ -118,14 +118,14 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>enjoy~</p> # 公告牌
-
+    board: <p>I will be aiming to make a new post every week on a different topic. If you have any feedback please feel free to get in touch via one of the provided links at the bottom left of the page ✉️</p> # 公告牌
+    disclaimer: <p> test </p>
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
   share:
     enable: true # 是否启用分享
-    sites: weibo,qq,wechat,facebook,twitter # PC端显示的分享图标
-    mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
+    sites: facebook,twitter,linkedin # PC端显示的分享图标
+    mobile_sites: facebook,twitter,linkedin # 移动端显示的分享图标
 
   # Comment
   comment:
@@ -177,7 +177,7 @@ params:
 
   # config
   config:
-    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: theme-green # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # main-left main-center main-right
     excerpt_link: Read More
     toc: true
@@ -195,4 +195,3 @@ params:
     - category
     - tag
     - recent_posts
-
