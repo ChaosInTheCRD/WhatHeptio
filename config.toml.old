@@ -1,4 +1,0 @@
-baseURL = "http://whattheheptio.com"
-languageCode = "en-us"
-title = "What The Heptio?"
-theme = "hugo-theme-pure"
