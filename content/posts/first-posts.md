@@ -1,6 +1,6 @@
 ---
 title: "Lets direct our Kubernetes traffic with... Contour? 🚦"
-date: 2020-01-27T10:43:56Z
+date: 2020-02-03T10:43:56Z
 draft: false
 
 ---
