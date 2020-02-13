@@ -90,7 +90,7 @@ From the point of view of deployment, this was a pretty simple step after the mo
 </figure>
 
 #### DNS
-Google Cloud DNS provided a reliable method of redirecting the user entering the domain name of the site to the appropriate Ingress IP. Ahh wonderful, Ingress. If you've been keeping an eye on the blog, the first post was all about Ingress, so I should be a master at this step. "It's gonna be a peice of cake", I thought. No. No it wasn't.
+Google Cloud DNS provided a reliable method of redirecting the user entering the domain name of the site to the appropriate Ingress IP. Ahh wonderful, Ingress. If you've been keeping an eye on the blog, the first post was all about Ingress, so I should be a master at this step. "It's gonna be a piece of cake", I thought. No. No it wasn't.
 
 #### Ingress
 *Brief Note: While I am sure that all of those reading this will have heard of HTTP/HTTPS, you may be unsure as to what the actual difference is between them. If so read [this 😊](https://www.geeksforgeeks.org/difference-between-http-and-https/)*
