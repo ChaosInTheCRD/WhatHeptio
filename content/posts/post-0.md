@@ -4,7 +4,6 @@ date: 2020-02-10T10:43:56Z
 draft: false
 
 ---
-
 {{< figure src="/img/post-0/banner2.png">}}
 So unlike the majority of posts that I will hopefully put on here, this one will be a little more 'build log' orientated. That's not to mean that by the end of reading you won't have learned anything new. hopefully you will find it inciteful, and maybe even helpful for your own learning and exploration into the field of cloud native platforms. Believe me; The articles that sit on this blog are only where the work really begins. This is just as much the case for any public facing website or application that runs in the industry today. I think it's all very exciting, and hopefully by the end of this article you will agree (at least partially).
 
