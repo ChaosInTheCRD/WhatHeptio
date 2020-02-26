@@ -1,5 +1,5 @@
 ---
-title: "WTH Post 0: Peaking Behind the Curtains 🕵🏻‍♂️"
+title: "WTH Post 0: Peeking Behind the Curtains 🕵🏻‍♂️"
 date: 2020-02-10T10:43:56Z
 draft: false
 
