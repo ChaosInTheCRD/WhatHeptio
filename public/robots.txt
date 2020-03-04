@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://whattheheptio.com/sitemap.xml
+Sitemap: https://wth-stage.tmlabs.co.uk/sitemap.xml
