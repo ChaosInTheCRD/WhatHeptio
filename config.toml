@@ -1,4 +1,4 @@
-baseURL = "https://whattheheptio.com/"
+baseURL = "https://wth-stage.tmlabs.co.uk/"
 languageCode = "en"                                      # website language
 defaultContentLanguage = "en"                            # [en, zh, ...] determines which i18n file to use
 title = "What the Heptio?"                                   # website title
@@ -62,14 +62,14 @@ unsafe = true
 
 [params]
   version = "5.x"                                        # LoveIt theme version
-  description = "You know when you just stop and think... What The Heptio?"	# site description
+  description = "Welcome to the WTH Staging Environment"	# site description
   keywords = ["Tom Meadows", "Theme", "Hugo"]                   # site keywords
 
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 6                                      # special amount of posts in each home post page
   avatar = "images/avatar.png"                           # URL of avatar shown in home page
-  subtitle = "You know when you just stop and think... What The Heptio?"  # subtitle shown in home page
+  subtitle = "Welcome to the WTH Staging Environment"  # subtitle shown in home page
 
   socialShare = true                                     # whether to show social share links in post page
 
