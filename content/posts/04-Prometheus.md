@@ -2,8 +2,11 @@
 title: "Prometheus and Grafana: The Metric Monitoring Titans"
 date: 2020-03-04T11:00:56Z
 draft: false
+featured_image: "/img/04-Prometheus/cockpit.jpg"
+featured_image_preview: "/img/04-Prometheus/cockpit.jpg"
 ---
-
+Your cloud native empire will never have looked so beautiful...
+<!--more-->
 In my last article, I mentioned an open-source platform called Prometheus. Now if you are in any way involved with the cloud native ecosystem, you will probably have come across it. After all, it shares its name with a Greek Titan that starred in one of the world famous 'Alien' movies 👽. But then I tell you that it is a monitoring and alerting toolkit that includes data scraping and storing, it's own querying language called 'PromQL' and a built in alert manager. Yes, that sounds great... but... what does that mean? Well here we go again!
 
 <figure>
