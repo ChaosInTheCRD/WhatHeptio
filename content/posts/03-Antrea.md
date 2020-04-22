@@ -2,7 +2,9 @@
 title: "Antrea: Giving My Pods A Voice"
 date: 2020-02-25T19:16:56Z
 draft: false
-
+tags: ["Kubernetes", "Platform Component", "Networking"]
+categories: ["Tools and Platforms"]
+description: "For the love of god... someone please tell me, what is a CNI?"
 featured_image: "/img/Antrea-03/frame.jpg"
 featured_image_preview: "/img/Antrea-03/frame.jpg"
 ---

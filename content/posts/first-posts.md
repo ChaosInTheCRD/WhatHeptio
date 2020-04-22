@@ -2,7 +2,7 @@
 title: "Lets direct our Kubernetes traffic with... Contour? 🚦"
 date: 2020-02-03T10:43:56Z
 draft: false
-tags: ["Kubernetes", "Tools", "Networking", "Ingress"]
+tags: ["Kubernetes", "Networking", "Ingress", "Platform Component"]
 categories: ["Tools and Platforms"]
 description: "A ground-up exploration of containers, Kubernetes and web traffic routing awaits!"
 featured_image: "/img/post-1/traffic.jpg"

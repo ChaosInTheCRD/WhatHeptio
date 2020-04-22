@@ -2,6 +2,9 @@
 title: "Prometheus and Grafana: The Metric Monitoring Titans"
 date: 2020-03-04T11:00:56Z
 draft: false
+tags: ["Kubernetes", "Tools", "Monitoring"]
+categories: ["Tools and Platforms"]
+description: "How can Velero save your bacon?"
 featured_image: "/img/04-Prometheus/cockpit.jpg"
 featured_image_preview: "/img/04-Prometheus/cockpit.jpg"
 ---
