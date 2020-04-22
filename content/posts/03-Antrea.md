@@ -10,6 +10,11 @@ featured_image_preview: "/img/Antrea-03/frame.jpg"
 ---
 For the love of god... someone please tell me, what is a CNI?
 <!--more-->
+##### Todays Post Anthem
+<iframe src="https://open.spotify.com/embed/track/6t1XpYl81tdMVl0EfMZVv6" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<sub> The pods are *tired of being alone...* Get it? Okay, okay, bad joke. </sub>
+
 Hello World! Welcome back 🎉 What a week (or two) it has been, full of yet more WTH moments. While there are many different cloud-native platforms, tools and services that I could centre this latest instalment around this week; I thought I’d take the opportunity to discuss an interesting project that I came across in my day to day life.
 
 Whilst deploying my first [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) master node, I was faced with the decision of which pod network add-on to use 👀. Of course, WTH I thought. Yet another moment that I had my false sense of understanding extinguished 🧯. After doing a little bit of searching on the internet, I just found a bunch of people yelling 'use calico, it just works', so I decided heck why not, let's just do it.. I applied the yaml file I was prompted with, and away I went.

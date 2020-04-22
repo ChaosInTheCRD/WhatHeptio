@@ -10,6 +10,11 @@ featured_image_preview: "/img/post-0/backstage.jpg"
 ---
 The blog posts are only just the beginning...
 <!--more-->
+##### Todays Post Anthem
+<iframe src="https://open.spotify.com/embed/track/7zQo4JEwJnTwYSClnNOAIy" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<sup> Just something atmospheric... </sup>
+
 So unlike the majority of posts that I will hopefully put on here, this one will be a little more 'build log' orientated. That's not to mean that by the end of reading you won't have learned anything new. hopefully you will find it inciteful, and maybe even helpful for your own learning and exploration into the field of cloud native platforms. Believe me; The articles that sit on this blog are only where the work really begins. This is just as much the case for any public facing website or application that runs in the industry today. I think it's all very exciting, and hopefully by the end of this article you will agree (at least partially).
 
 Over the next ten or so minutes, I am going to take you on a journey of how this blog was born, and how it leverages the best of open-source and cloud native platforms to give it (I hope), a reliable and continuously developing design that all of you readers sitting at the other end can benefit from. I know what you are thinking; "What the Heptio? Why would you use enterprise grade platforms, designed for large scale deployments, just to host your casual little web page?". Well it wouldn't really be a WTH blog post without having to stop and scratch your head at least once now would it? So, without further ado...

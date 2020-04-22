@@ -1,5 +1,5 @@
 ---
-title: "Lets direct our Kubernetes traffic with... Contour? 🚦"
+title: "Lets direct Kubernetes traffic with... Contour? 🚦"
 date: 2020-02-03T10:43:56Z
 draft: false
 tags: ["Kubernetes", "Networking", "Ingress", "Platform Component"]
@@ -10,6 +10,12 @@ featured_image_preview: "/img/post-1/traffic.jpg"
 ---
 A ground-up exploration of containers, Kubernetes and web traffic routing awaits!
 <!--more-->
+
+##### Todays Post Anthem
+<iframe src="https://open.spotify.com/embed/track/2eF8pWbiivYsYRpbntYsnc" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<sup> Signed, Sealed, & Delivered... Let Contour and Cert-Manager do this for you 😎 </sup>
+
 So you understand the premise of a container, pretty cool right? You have one way or another been taken through a rundown of how Kubernetes can help harness these nifty little containers, and enable enterprises to run their services with a whole new level of control and efficiency. Now you feel accomplished in your understanding of this new trend, and someone has burst your bubble by uttering a sentence like, "I use Contour as my ingress controller; it deploys Envoy as the reverse proxy and load balancer, what do you use?". You sit in your seat paralysed for a brief moment as your short-lived confidence evaporates... and then you bellow... 'What the Heptio?!'.
 
 Well good news, this *premier* blog post is aimed to try and restore your faith in the world of modern applications, and provide an overview of the principles that surround the Contour platform. 👏
