@@ -2,9 +2,14 @@
 title: "Antrea: Giving My Pods A Voice"
 date: 2020-02-25T19:16:56Z
 draft: false
-
+tags: ["Kubernetes", "Platform Component", "Networking"]
+categories: ["Tools and Platforms"]
+description: "For the love of god... someone please tell me, what is a CNI?"
+featured_image: "/img/Antrea-03/frame.jpg"
+featured_image_preview: "/img/Antrea-03/frame.jpg"
 ---
-
+For the love of god... someone please tell me, what is a CNI?
+<!--more-->
 Hello World! Welcome back 🎉 What a week (or two) it has been, full of yet more WTH moments. While there are many different cloud-native platforms, tools and services that I could centre this latest instalment around this week; I thought I’d take the opportunity to discuss an interesting project that I came across in my day to day life.
 
 Whilst deploying my first [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) master node, I was faced with the decision of which pod network add-on to use 👀. Of course, WTH I thought. Yet another moment that I had my false sense of understanding extinguished 🧯. After doing a little bit of searching on the internet, I just found a bunch of people yelling 'use calico, it just works', so I decided heck why not, let's just do it.. I applied the yaml file I was prompted with, and away I went.

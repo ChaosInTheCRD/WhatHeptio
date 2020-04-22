@@ -1,5 +1,7 @@
 # Lets direct our Kubernetes traffic with... Contour? 🚦
 
+A ground-up exploration of containers, Kubernetes and web traffic routing awaits!
+<!--more-->
 So you understand the premise of a container, pretty cool right? You have one way or another been taken through a rundown of how Kubernetes can help harness these nifty little containers, and enable enterprises to run their services with a whole new level of control and efficiency. Now you feel accomplished in your understanding of this new trend, and someone has burst your bubble by uttering a sentence like, "I use Contour as my ingress controller; it deploys Envoy as the reverse proxy and load balancer, what do you use?". You sit in your seat paralysed for a brief moment as your short-lived confidence evaporates... and then you bellow... 'What the Heptio?!'.
 
 Well good news, this *premier* blog post is aimed to try and restore your faith in the world of modern applications, and provide an overview of the principles that surround the Contour platform. 👏
@@ -24,7 +26,7 @@ In the Kubernetes world, Ingress is an application layer level (OSI Layer 7), po
 
 As seen in the diagram below, an ingress controller is a service based on a reverse proxy / load balancer ([handy definition if needed](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)) which once configured routes incoming traffic to the correct application within your cluster. This ingress controller can be chosen by the cluster admin, and there are a few to choose from (e.g. Nginx, Traefik, Contour 😲). The configuration of said controllers is handled by the cluster master, directed by the cluster resources; a collection of rules and configurations provided by yours truly (e.g. YAML file).
 
-{{< figure src="/img/post-1/ingress.png">}}
+{{< figure src="/img/post-1/ingress1.png">}}
 
 Ok awesome, you're now entitled to lean back in your chair again, with the satisfaction that your web application is now accessible to whomever you wish it to be, through a domain name that leads back to your k8s cluster, and any requests get handled by the ingress controller, defined by your delicately defined ingress resources YAML.
 
