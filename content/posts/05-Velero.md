@@ -120,7 +120,7 @@ what@heptio:~$ velero restore create --from-backup weave
 
 ## Wrapping up
 
-So. Thank you for following along my anecdotal overview of Velero, and how I managed to stumble upon a truly magnificent tool, that has already saved my bacon a couple of times. The best part is that I have only scratched the surface of what Velero is capable of, and I will leave it to you with regards to taking your disaster recovery journey further into the abyss ✨.
+So, thank you for following along my anecdotal overview of Velero, and how I managed to stumble upon a truly magnificent tool, that has already saved my bacon a couple of times. The best part is that I have only scratched the surface of what Velero is capable of, and I will leave it to you with regards to taking your disaster recovery journey further into the abyss ✨.
 
 As is tradition with these posts, I have chosen a video that would be worth watching if you want to dive further into the topic in a more practical fashion - check out the TGI Kubernetes Episode at the bottom of the page. It's definitely worth a watch.
 
