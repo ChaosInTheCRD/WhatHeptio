@@ -1,13 +1,5 @@
----
-title: "Build your own Kubernetes-based Boutique"
-date: 2020-05-30T22:13:36+01:00
-draft: false
-tags: ["Kubernetes", "Google Cloud", "Practical"]
-categories: ["Tutorials"]
-description: "So you want to captain your very own Kubernetes vessel... but don't know where to start? Look no further."
-featured_image: "/img/06-boutique/boutique-banner.png"
-featured_image_preview: "/img/06-boutique/boutique-banner.png"
----
+# Build your own Kubernetes-based Boutique
+
 
 So you want to commandeer your very own kubernetes vessel... but don't know where to start? Look no further.
 <!--more-->

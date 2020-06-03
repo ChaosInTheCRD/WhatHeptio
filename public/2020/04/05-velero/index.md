@@ -8,6 +8,10 @@ The open source tool that makes backing up your Kubernetes Cluster plain sailing
 <div align="centre"> 
  <iframe src="https://open.spotify.com/embed/track/6yfnmzXX7TQ3sfjr7jUNtb" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+ 
+*Please, don't you rock my boat (or kubernetes cluster) 
+🥁*
+
 Well surprise surprise, it looks like I'm back! Not at all the length of time that I was planning to be away for, but certain events (that I'm sure you will not want to spend another minute hearing about) led me to put our curious voyage together through the mystical universe of cloud-native, on the back burner for a little while. Now now, of course that does not mean that I haven't been exploring further; in fact, quite the contrary.
 
 ### So what have I been up to?
