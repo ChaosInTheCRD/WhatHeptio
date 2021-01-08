@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Disaster Recovery on What the Heptio?</title><link>http://whattheheptio.com/tags/disaster-recovery/</link><description>Recent content in Disaster Recovery on What the Heptio?</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 16 Apr 2020 16:16:01 +0100</lastBuildDate><atom:link href="http://whattheheptio.com/tags/disaster-recovery/index.xml" rel="self" type="application/rss+xml"/><item><title>When disaster strikes, count on... Velero?</title><link>http://whattheheptio.com/2020/04/05-velero/</link><pubDate>Thu, 16 Apr 2020 16:16:01 +0100</pubDate><guid>http://whattheheptio.com/2020/04/05-velero/</guid><description>&lt;p>The open source tool that makes backing up your Kubernetes Cluster plain sailing!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disaster Recovery on What the Heptio?</title>
+    <link>https://whattheheptio.com/tags/disaster-recovery/</link>
+    <description>Recent content in Disaster Recovery on What the Heptio?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 16 Apr 2020 16:16:01 +0100</lastBuildDate><atom:link href="https://whattheheptio.com/tags/disaster-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When disaster strikes, count on... Velero?</title>
+      <link>https://whattheheptio.com/2020/04/05-velero/</link>
+      <pubDate>Thu, 16 Apr 2020 16:16:01 +0100</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/04/05-velero/</guid>
+      <description>&lt;p&gt;The open source tool that makes backing up your Kubernetes Cluster plain sailing!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

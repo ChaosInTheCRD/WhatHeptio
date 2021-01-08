@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on What the Heptio?</title><link>http://whattheheptio.com/posts/</link><description>Recent content in Posts on What the Heptio?</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 30 May 2020 22:13:36 +0100</lastBuildDate><atom:link href="http://whattheheptio.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Build your own Kubernetes-based Boutique</title><link>http://whattheheptio.com/2020/05/06-boutique/</link><pubDate>Sat, 30 May 2020 22:13:36 +0100</pubDate><guid>http://whattheheptio.com/2020/05/06-boutique/</guid><description>&lt;p>So you want to commandeer your very own kubernetes vessel&amp;hellip; but don&amp;rsquo;t know where to start? Look no further.&lt;/p></description></item><item><title>When disaster strikes, count on... Velero?</title><link>http://whattheheptio.com/2020/04/05-velero/</link><pubDate>Thu, 16 Apr 2020 16:16:01 +0100</pubDate><guid>http://whattheheptio.com/2020/04/05-velero/</guid><description>&lt;p>The open source tool that makes backing up your Kubernetes Cluster plain sailing!&lt;/p></description></item><item><title>Prometheus and Grafana: The Metric Monitoring Titans</title><link>http://whattheheptio.com/2020/03/04-prometheus/</link><pubDate>Wed, 04 Mar 2020 11:00:56 +0000</pubDate><guid>http://whattheheptio.com/2020/03/04-prometheus/</guid><description>&lt;p>Your cloud native empire will never have looked so beautiful&amp;hellip;&lt;/p></description></item><item><title>Antrea: Giving My Pods A Voice</title><link>http://whattheheptio.com/2020/02/03-antrea/</link><pubDate>Tue, 25 Feb 2020 19:16:56 +0000</pubDate><guid>http://whattheheptio.com/2020/02/03-antrea/</guid><description>&lt;p>For the love of god&amp;hellip; someone please tell me, what is a CNI?&lt;/p></description></item><item><title>WTH Post 0: Peeking Behind the Curtains 🕵🏻‍♂️</title><link>http://whattheheptio.com/2020/02/post-0/</link><pubDate>Mon, 10 Feb 2020 10:43:56 +0000</pubDate><guid>http://whattheheptio.com/2020/02/post-0/</guid><description>&lt;p>The blog posts are only just the beginning&amp;hellip;&lt;/p></description></item><item><title>Lets direct Kubernetes traffic with... Contour? 🚦</title><link>http://whattheheptio.com/2020/02/first-posts/</link><pubDate>Mon, 03 Feb 2020 10:43:56 +0000</pubDate><guid>http://whattheheptio.com/2020/02/first-posts/</guid><description>&lt;p>A ground-up exploration of containers, Kubernetes and web traffic routing awaits!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on What the Heptio?</title>
+    <link>https://whattheheptio.com/posts/</link>
+    <description>Recent content in Posts on What the Heptio?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 30 May 2020 22:13:36 +0100</lastBuildDate><atom:link href="https://whattheheptio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build your own Kubernetes-based Boutique</title>
+      <link>https://whattheheptio.com/2020/05/06-boutique/</link>
+      <pubDate>Sat, 30 May 2020 22:13:36 +0100</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/05/06-boutique/</guid>
+      <description>&lt;p&gt;So you want to commandeer your very own kubernetes vessel&amp;hellip; but don&amp;rsquo;t know where to start? Look no further.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When disaster strikes, count on... Velero?</title>
+      <link>https://whattheheptio.com/2020/04/05-velero/</link>
+      <pubDate>Thu, 16 Apr 2020 16:16:01 +0100</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/04/05-velero/</guid>
+      <description>&lt;p&gt;The open source tool that makes backing up your Kubernetes Cluster plain sailing!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prometheus and Grafana: The Metric Monitoring Titans</title>
+      <link>https://whattheheptio.com/2020/03/04-prometheus/</link>
+      <pubDate>Wed, 04 Mar 2020 11:00:56 +0000</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/03/04-prometheus/</guid>
+      <description>&lt;p&gt;Your cloud native empire will never have looked so beautiful&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Antrea: Giving My Pods A Voice</title>
+      <link>https://whattheheptio.com/2020/02/03-antrea/</link>
+      <pubDate>Tue, 25 Feb 2020 19:16:56 +0000</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/02/03-antrea/</guid>
+      <description>&lt;p&gt;For the love of god&amp;hellip; someone please tell me, what is a CNI?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WTH Post 0: Peeking Behind the Curtains 🕵🏻‍♂️</title>
+      <link>https://whattheheptio.com/2020/02/post-0/</link>
+      <pubDate>Mon, 10 Feb 2020 10:43:56 +0000</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/02/post-0/</guid>
+      <description>&lt;p&gt;The blog posts are only just the beginning&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lets direct Kubernetes traffic with... Contour? 🚦</title>
+      <link>https://whattheheptio.com/2020/02/first-posts/</link>
+      <pubDate>Mon, 03 Feb 2020 10:43:56 +0000</pubDate>
+      
+      <guid>https://whattheheptio.com/2020/02/first-posts/</guid>
+      <description>&lt;p&gt;A ground-up exploration of containers, Kubernetes and web traffic routing awaits!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,41 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>What the Heptio? on What the Heptio?</title><link>http://whattheheptio.com/</link><description>Recent content in What the Heptio? on What the Heptio?</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 30 May 2020 22:13:36 +0100</lastBuildDate><atom:link href="http://whattheheptio.com/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>http://whattheheptio.com/posts/</link><pubDate>Sat, 30 May 2020 22:13:36 +0100</pubDate><guid>http://whattheheptio.com/posts/</guid><description/></item><item><title>About</title><link>http://whattheheptio.com/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>http://whattheheptio.com/about/</guid><description>&lt;p>Hi everyone! Thanks for visiting my blog that aims to release a enterprise computing related post once every 7 days.&lt;/p>
-&lt;h3 id="disclaimer">Disclaimer&lt;/h3>
-&lt;p>Any views or opinions expressed within this blog are strictly my own and not those of my employer, or any past employer. While I am blogging about Cloud-Native related platforms, blogging is not my job for my employer (VMware), so this is not a corporate blog. I am solely responsible for all content published, and does not represent or reflect the views of my employer or any of its divisions, subsidiaries, or business matters.&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>What the Heptio? on What the Heptio?</title>
+        <link>https://whattheheptio.com/</link>
+        <description>Recent content in What the Heptio? on What the Heptio?</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>en</language>
+        
+        
+        
+            <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        
+        
+            <lastBuildDate>Sat, 30 May 2020 22:13:36 +0100</lastBuildDate>
+        
+        <atom:link href="https://whattheheptio.com/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>https://whattheheptio.com/posts/</link>
+                <pubDate>Sat, 30 May 2020 22:13:36 +0100</pubDate>
+                
+                <guid>https://whattheheptio.com/posts/</guid>
+                <description></description>
+            </item>
+        
+            <item>
+                <title>About</title>
+                <link>https://whattheheptio.com/about/</link>
+                <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+                
+                <guid>https://whattheheptio.com/about/</guid>
+                <description>&lt;p&gt;Hi everyone! Thanks for visiting my blog that aims to release a enterprise computing related post once every 7 days.&lt;/p&gt;
+&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
+&lt;p&gt;Any views or opinions expressed within this blog are strictly my own and not those of my employer, or any past employer. While I am blogging about Cloud-Native related platforms, blogging is not my job for my employer (VMware), so this is not a corporate blog. I am solely responsible for all content published, and does not represent or reflect the views of my employer or any of its divisions, subsidiaries, or business matters.&lt;/p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
