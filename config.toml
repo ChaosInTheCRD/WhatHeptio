@@ -78,7 +78,7 @@ unsafe = true
   icp = ''                                               # ICP info only in China (HTML format is allowed)
   license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
                                                          # license info (HTML format is allowed)
-  gitRepo = "https://github.com/djw0bbl3"                                           # public git repo url to link lastmod git commit only then enableGitInfo is true
+  gitRepo = "https://github.com/ChaosInTheCRD"                                           # public git repo url to link lastmod git commit only then enableGitInfo is true
 
   linkToMarkdown = true                                  # whether to show link to Raw Markdown content of the post
 
@@ -114,7 +114,7 @@ unsafe = true
     email = "tpmeadows1@gmail.com"
 
   [params.social]                                        # Social Info in home page
-    GitHub = "djw0bbl3"
+    GitHub = "ChaosInTheCRD"
     Linkedin = "thomas-meadows-481584148/"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
